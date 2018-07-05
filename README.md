@@ -1,5 +1,5 @@
 # Chat-Wars-Bot
-Бот для текстовой мморпг Chat Wars 3 в Telegram<br />
+Бот для текстовой мморпг Chat Wars 3 в Telegram 0.9 Beta<br />
 Если вы обновляете бота, удалите всё из папки configs<br />
 Сам код [тут](http://fenicu.men/Fenicu/Chat-Wars-Bot-3)<br />
 
